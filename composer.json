@@ -1,0 +1,21 @@
+{
+  "name": "malik/zoo",
+  "description": "app zoo",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "Classes/",
+      "Modeles\\": "Modeles/",
+      "Animaux\\": "Classes/Animaux/",
+      "Enclos\\": "Classes/Enclos/",
+      "Controllers\\": "Controllers/"
+    }
+  },
+  "authors": [
+    {
+      "name": "malek"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
